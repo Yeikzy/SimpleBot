@@ -6,7 +6,7 @@ module.exports.run = async (client, message) => {
 	.setColor('#eab3ff')
 	.setFooter('Yeikzy', 'https://i.imgur.com/Qs9Kczr.png')
 	.addFields(
-		{ name: 'Created by Yeikzy', value: '[Lien](https://discord.gg/hMa323uxdP)' },
+		{ name: 'Created by Yeikzy', value: '[Lien](https://discord.gg/wzjFNpTbwj)' },
 	)
 	.setTimestamp()
 	.setAuthor(`${user.username}`, `${user.avatarURL()}`);
