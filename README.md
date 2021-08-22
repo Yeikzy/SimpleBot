@@ -18,4 +18,4 @@ English
 
 # Contact Me
 
-For the slightest problem, you can contact me by my [Discord](https://discord.gg/W7cY7FH) you can mention me and I will get back to you.
+For the slightest problem, you can contact me by my [Discord](https://discord.gg/NMR4zVqYf4) you can mention me and I will get back to you.
