@@ -1,4 +1,6 @@
-![Cover](https://github.com/Yeikzy/EasyDiscordBot/blob/main/SimpleBanner.jpg)
+<div align="center">
+   <a href="https://discord.gg/W7cY7FH" target="_blank"><img src="https://github.com/Yeikzy/Yeikzy/blob/main/yeikzy-readme.jpg" align="center" /></a>
+</div>
 
 # EasyDiscordBot
 The code that is transmitted allows you to put your bot in DND (Possibility of changing) in status it looks at the number of members on the person's server, with messages like "Yo, wesh, hi, hello" he adds a reaction, later will be added commands like! ban and! warn.
