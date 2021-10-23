@@ -16,7 +16,7 @@ git clone https://github.com/Yeikzy/EasyDiscordBot
 ```
 Go to ``config.json``and replace the token and the prefix,
 
-Go to ``events``folder and edit ``ready.js`` and put your server id.
+Go to ``events`` folder and edit ``ready.js`` and put your server id.
 
 # Contact Me
 
