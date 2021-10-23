@@ -37,12 +37,6 @@ module.exports = async(client)=> {
 }
 ```
 
-# Yeikzy 
-
-Hello my name is Yeikzy I am a small developer and I share my code with you because I have a big heart, I would just ask you to leave the command "yeikzy.js" here you use my code
-
-Sincerely, Yeikzy
-
 # Contact Me
 
-For the slightest problem, you can contact me by my [Discord](https://discord.gg/NMR4zVqYf4) you can mention me and I will get back to you.
+For the slightest problem, you can contact me by my [Discord](https://discord.gg/QW4fSZJW4N) you can mention me and I will get back to you.
