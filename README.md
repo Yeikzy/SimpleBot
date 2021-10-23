@@ -2,23 +2,46 @@
    <a href="https://discord.gg/W7cY7FH" target="_blank"><img src="https://github.com/Yeikzy/Yeikzy/blob/main/yeikzy-readme.jpg" align="center" /></a>
 </div>
 
-# EasyDiscordBot
-The code that is transmitted allows you to put your bot in DND (Possibility of changing) in status it looks at the number of members on the person's server, with messages like "Yo, wesh, hi, hello" he adds a reaction, later will be added commands like! ban and! warn.
+# How do I use it ?
+
+1. Clone this repository in your webserver root
+Simply type the following commands:
+```
+$ git clone https://github.com/Yeikzy/EasyDiscordBot
+```
+
+2. Edit the ``config.json`` and replace the token and the prefix
+
+```js
+{
+    "prefix": "yourprefix",
+    "token": "yourtoken",
+    "hellolist": ["yo ","Salut", "Hello", "Bonjour", "wsh", "slt", "bjr", "cc", "coucou", "wesh", "bonsoir", "hey"] 
+}
+```
+
+3. Edit the ``events/ready.js`` and put your server id.
+
+```js
+
+module.exports = async(client)=> {
+    let guild = client.guilds.cache.get("yourserverid");
+    let setPresence = async() => {
+        console.log('check')
+        guild = await guild.fetch().catch(() => guild);
+        await client.user.setPresence({status: 'dnd', activity: {name: guild.memberCount + ' membres ', type: 'WATCHING'}});
+    	await client.user.setStatus('dnd')
+    }
+    setPresence();
+    setInterval(setPresence, 30000);
+}
+```
 
 # Yeikzy 
 
 Hello my name is Yeikzy I am a small developer and I share my code with you because I have a big heart, I would just ask you to leave the command "yeikzy.js" here you use my code
 
 Sincerely, Yeikzy
-
-# Install
-
-```
-git clone https://github.com/Yeikzy/EasyDiscordBot
-```
-Go to ``config.json``and replace the token and the prefix,
-
-Go to ``events`` folder and edit ``ready.js`` and put your server id.
 
 # Contact Me
 
