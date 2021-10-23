@@ -9,14 +9,14 @@ Hello my name is Yeikzy I am a small developer and I share my code with you beca
 
 Sincerely, Yeikzy
 
-# Version 
+# Install
 
+```
+git clone https://github.com/Yeikzy/EasyDiscordBot
+```
+Go to ``config.json``and replace the token and the prefix,
 
-The codes are:
-```
-French
-English
-```
+Go to ``events``folder and edit ``ready.js`` and put your server id.
 
 # Contact Me
 
