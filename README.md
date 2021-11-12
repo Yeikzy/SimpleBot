@@ -10,7 +10,13 @@ Simply type the following commands:
 $ git clone https://github.com/Yeikzy/EasyDiscordBot
 ```
 
-2. Edit the ``config.json`` and replace the token and the prefix
+2. Use this commands:
+
+```js 
+npm install discord.js
+```
+
+3. Edit the ``config.json`` and replace the token and the prefix
 
 ```js
 {
@@ -20,7 +26,7 @@ $ git clone https://github.com/Yeikzy/EasyDiscordBot
 }
 ```
 
-3. Edit the ``events/ready.js`` and put your server id.
+4. Edit the ``events/ready.js`` and put your server id.
 
 ```js
 
