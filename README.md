@@ -43,6 +43,8 @@ module.exports = async(client)=> {
 }
 ```
 
+5. Use the executor.cmd
+
 # Contact Me
 
 For the slightest problem, you can contact me by my [Discord](https://discord.gg/QW4fSZJW4N) you can mention me and I will get back to you.
