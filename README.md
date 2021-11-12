@@ -6,7 +6,7 @@
 
 1. Clone this repository in your webserver root
 Simply type the following commands:
-```git
+```
 $ git clone https://github.com/Yeikzy/EasyDiscordBot
 ```
 
