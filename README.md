@@ -6,14 +6,14 @@
 
 1. Clone this repository in your webserver root
 Simply type the following commands:
-```
+```git
 $ git clone https://github.com/Yeikzy/EasyDiscordBot
 ```
 
 2. Use this commands:
 
 ```js 
-npm install discord.js
+$ npm install discord.js
 ```
 
 3. Edit the ``config.json`` and replace the token and the prefix
