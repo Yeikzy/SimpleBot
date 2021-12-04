@@ -4,8 +4,7 @@
 
 # How do I use it ?
 
-1. Clone this repository in your webserver root
-Simply type the following commands or run botinstall.cmd.
+1. Clone this repository or run botinstall.cmd.
 ```
 $ npm install pm2 -g
 
