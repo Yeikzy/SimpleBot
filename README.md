@@ -7,6 +7,10 @@
 1. Clone this repository in your webserver root
 Simply type the following commands:
 ```
+$ npm install pm2 -g
+```
+
+```
 $ git clone https://github.com/Yeikzy/EasyDiscordBot
 ```
 
