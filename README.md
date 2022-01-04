@@ -30,6 +30,8 @@ $ npm install discord.js
 4. Edit the ``events/ready.js`` and put your server id.
 
 ```js
+// status ; dnd, invisible, online, idle
+// activity ; WATCHING, LISTENING, PLAYING
 
 module.exports = async(client)=> {
     let guild = client.guilds.cache.get("yourserverid");
