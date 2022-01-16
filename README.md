@@ -50,6 +50,10 @@ module.exports = async(client)=> {
 
 ```Double click on executor.cmd```
 
+# Analytics
+
+![Alt](https://repobeats.axiom.co/api/embed/15556c445712dbddf3baa88a4950db1faf8e6e69.svg "Repobeats analytics image")
+
 # Contact Me
 
 For the slightest problem, you can contact me by my [Discord](https://discord.gg/QW4fSZJW4N) you can mention me and I will get back to you.
