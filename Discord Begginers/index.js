@@ -1,39 +1,52 @@
 const Discord = require('discord.js');
-const { token } = require('./config.json');
+const fs = require('fs')
+const {Manager} = require('discord-autorole-badges'),
 
-const client = new Discord.Client();
+client = new Discord.Client()
 
+client.once('ready', () => {
+    console.log('Ready!');
+})
 
-const fs = require('fs');
+client.on("ready", () => {
+    console.log(`Connecté en tant que ${client.user.tag}!`);
+    client.user.setStatus("connect")
+    client.user.setActivity(`Yeikzy` , {type: "WATCHING"})
+})
+
+const { token,prefix } = require('./config.json');
 
 client.commands = new Discord.Collection();
 
-fs.readdir('./commands/', (error, f) => {
-    if(error) return console.log(error);
-    console.log(`${f.length} commande${(f.length <= 1) ? '' : 's'} en chargement`);
+client.on('message', message => {
+    if (message.author.bot) return
+    if (!message.content.startsWith(prefix)) return
+  
+    const args = message.content.slice(prefix.length).trim().split(/ +/g)
+    const command = args.shift().toLowerCase()
+    const cmd = client.commands.get(command)
+  
+    if (!cmd) return
+    cmd.run(client, message, args)
+  
+  })
 
-    const commandes = f.filter(f => f.split('.').pop() === 'js');
 
-    commandes.forEach(f => {
-        const commande = require(`./commands/${f}`);
-        console.log(`- ${f} chargée`);
 
-        client.commands.set(commande.help.name, commande);
+  client.commands = new Discord.Collection();
+
+  fs.readdir("./commands/", (err, files) => {
+    if (err) return console.error(err);
+    files.forEach(file => {
+      if (!file.endsWith(".js")) return;
+
+      let props = require(`./commands/${file}`);
+      
+      let commandName = file.split(".")[0];
+      console.log(` ${commandName}`);
+      
+      client.commands.set(commandName, props);
     });
-});
-
-
-fs.readdir('./events/', (error, f) => {
-    if(error) return console.log(error);
-    console.log(`${f.length} event${(f.length <= 1) ? '' : 's'} en chargement`);
-
-    f.forEach(f => {
-        const events = require(`./events/${f}`);
-        const event = f.split('.')[0];
-        console.log(`- ${f} chargé`);
-
-        client.on(event, events.bind(null, client));
-    });
-});
+  });
 
 client.login(token);
