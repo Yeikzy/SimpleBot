@@ -73,6 +73,8 @@ Thanks goes to these wonderful people
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-# Contact Me
-
-For the slightest problem, you can contact me by my [Discord](https://discord.gg/QW4fSZJW4N) you can mention me and I will get back to you.
+# Licensing 
+```
+Copyright (c) 2022 Yeikzy 
+All packages released under MIT.
+```
