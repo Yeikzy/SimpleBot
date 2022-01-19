@@ -26,23 +26,17 @@ $ npm install discord.js
 }
 ```
 
-4. Edit the ``events/ready.js`` and put your server id.
+4. Edit the ``index.js`` for a personal status.
 
 ```js
 // status ; dnd, invisible, online, idle
 // activity ; WATCHING, LISTENING, PLAYING
 
-module.exports = async(client)=> {
-    let guild = client.guilds.cache.get("yourserverid");
-    let setPresence = async() => {
-        console.log('check')
-        guild = await guild.fetch().catch(() => guild);
-        await client.user.setPresence({status: 'dnd', activity: {name: guild.memberCount + ' membres ', type: 'WATCHING'}});
-    	await client.user.setStatus('dnd')
-    }
-    setPresence();
-    setInterval(setPresence, 30000);
-}
+client.on("ready", () => {
+    console.log(`Connecté en tant que ${client.user.tag}!`);
+    client.user.setStatus("connect")
+    client.user.setActivity(`Yeikzy` , {type: "WATCHING"})
+})
 ```
 
 5. Use the executor.cmd
