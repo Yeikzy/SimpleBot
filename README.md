@@ -1,5 +1,11 @@
 <div align="center">
    <a href="https://discord.gg/W7cY7FH" target="_blank"><img src="https://github.com/Yeikzy/Yeikzy/blob/main/yeikzy-readme.jpg" align="center" /></a>
+ <a href="https://discord.gg/kmpnWBzDCa"><img src="https://img.shields.io/discord/903412602921705544.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2 "></a>
+        <img src="https://github.com/zaida04/guilded.js/actions/workflows/ci.yml/badge.svg" alt="CI">
+        <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a><br>
+    </p>
+</div>
+
 </div>
 
 # How do I use it ?
