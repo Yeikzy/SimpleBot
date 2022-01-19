@@ -50,7 +50,9 @@ client.on("ready", () => {
 
 ```Double click on executor.cmd```
 
-# Analytics
+# Commands
+
+# Project Activity
 
 ![Alt](https://repobeats.axiom.co/api/embed/15556c445712dbddf3baa88a4950db1faf8e6e69.svg "Repobeats analytics image")
 
