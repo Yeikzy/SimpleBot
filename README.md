@@ -52,6 +52,21 @@ client.on("ready", () => {
 
 # Commands
 
+|      Name      |            Description             |  Options  |
+|:---------------|:----------------------------------:|----------:|
+|   **ban**      |      ban a member on your Discord Server.      |           |
+|   **avatar**   |      Get a person's avatar      |      \<@User>     |
+|  **banner**    |         Get a person's banner      |    | \<@User>
+|   **clear**    |           Clear message            |  \<amount>  |
+|    **say**     |      Make your bot talk  |           |
+|   **kick**   |       Kick a member on your server.       |           |  
+|   **4k**    |      Send 4k image.                 | \<NSFW>  |
+|   **anal**   |           Send NSFW image.           |  \<NSFW>  |
+|  **boobs**   |      Send boobs picture.       |  \<NSFW>       |
+|   **ass**    |      Send ass picture.      |  \<NSFW>       |
+|   **pussy**    |          Send pussy picture.           |  \<NSFW>      |
+|  **hug**   |          Send a hug to a user.          | \<@User> |
+
 # Project Activity
 
 ![Alt](https://repobeats.axiom.co/api/embed/15556c445712dbddf3baa88a4950db1faf8e6e69.svg "Repobeats analytics image")
