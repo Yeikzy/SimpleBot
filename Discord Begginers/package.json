@@ -9,7 +9,25 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.5.1",
-    "eslint": "^7.13.0"
+    "axios": "^0.24.0",
+    "booru": "^2.5.0",
+    "discord-autorole-badges": "^1.1.0",
+    "discord-buttons": "^4.0.0",
+    "discord-nsfw": "^1.3.0",
+    "discord-nsfw-simple": "^1.1.7",
+    "discord-player": "^5.2.0",
+    "discord.js": "^12.3.1",
+    "dotenv": "^10.0.0",
+    "ffmpeg-static": "^4.4.0",
+    "fs": "0.0.1-security",
+    "gh-got": "^9.0.0",
+    "got": "^12.0.0",
+    "got-fetch": "^5.0.0",
+    "ms": "^2.1.2",
+    "nekos.life": "^2.0.7",
+    "node-fetch": "^2.6.1",
+    "opusscript": "^0.0.8",
+    "random-puppy": "^1.1.0",
+    "superagent": "^6.1.0"
   }
 }
