@@ -54,6 +54,25 @@ client.on("ready", () => {
 
 ![Alt](https://repobeats.axiom.co/api/embed/15556c445712dbddf3baa88a4950db1faf8e6e69.svg "Repobeats analytics image")
 
+# Contributors
+
+Thanks goes to these wonderful people
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Yeikzy"><img src="https://avatars.githubusercontent.com/u/48528776?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yeikzy</b></sub></a><br /><a href="https://github.com/Yeikzy/EasyDiscordBot" title="Code">💻</a> <a href="#example-Yeikzy" title="Examples">💡</a> <a href="https://github.com/Yeikzy/EasyDiscordBot/pulls" title="Tests">⚠️</a> <a href="#tutorial-Yeikzy" title="Tutorials">✅</a> <a href="#ideas-yeikzy" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/Miche-Desti"><img src="https://avatars.githubusercontent.com/u/91158131?v=4" width="100px;" alt=""/><br /><sub><b>Miche</b></sub></a><br /><a href="https://github.com/Yeikzy/EasyDiscordBot" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 # Contact Me
 
 For the slightest problem, you can contact me by my [Discord](https://discord.gg/QW4fSZJW4N) you can mention me and I will get back to you.
