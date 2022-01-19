@@ -23,7 +23,6 @@ $ npm install discord.js
 {
     "prefix": "yourprefix",
     "token": "yourtoken",
-    "hellolist": ["yo ","Salut", "Hello", "Bonjour", "wsh", "slt", "bjr", "cc", "coucou", "wesh", "bonsoir", "hey"] 
 }
 ```
 
