@@ -96,6 +96,6 @@ Thanks goes to these wonderful people
 
 # Licensing 
 ```
-Copyright (c) 2022 Yeikzy 
+Copyright (c) 2021 Yeikzy 
 All packages released under MIT.
 ```
