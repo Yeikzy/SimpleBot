@@ -25,7 +25,7 @@
     "got-fetch": "^5.0.0",
     "ms": "^2.1.2",
     "nekos.life": "^2.0.7",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.1.1",
     "opusscript": "^0.0.8",
     "random-puppy": "^1.1.0",
     "superagent": "^6.1.0"
