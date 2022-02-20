@@ -1,8 +1,7 @@
 const Discord = require('discord.js');
 const fs = require('fs')
-const {Manager} = require('discord-autorole-badges'),
-
-client = new Discord.Client()
+const {Client} = require('discord.js');
+const client = new Client({ intents: 32767})
 
 client.once('ready', () => {
     console.log('Ready!');
