@@ -49,9 +49,13 @@ client.on("ready", () => {
 })
 ```
 
-5. Use the executor.cmd
+5. Launch the bot.
 
-```Double click on executor.cmd```
+Open a terminal and run these commands:
+```
+pm2 start index.js
+pm2 monit
+```
 
 # Commands
 
