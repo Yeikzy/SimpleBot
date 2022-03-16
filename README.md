@@ -53,8 +53,8 @@ client.on("ready", () => {
 
 Open a terminal and run these commands:
 ```
-pm2 start index.js
-pm2 monit
+$ pm2 start index.js
+$ pm2 monit
 ```
 
 # Commands
