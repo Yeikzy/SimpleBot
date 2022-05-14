@@ -1,11 +1,10 @@
 <div align="center">
    <a href="https://discord.gg/W7cY7FH" target="_blank"><img src="https://github.com/Yeikzy/EasyDiscordBot/blob/main/.github/workflows/readme-header.png" align="center" /></a>
 
- <a href="https://discord.gg/kmpnWBzDCa"><img src="https://img.shields.io/discord/903412602921705544.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2 "></a>
-        <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a><br>
-
-[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-[![Active](http://img.shields.io/badge/Status-Active-green.svg)](https://tterb.github.io)    
+ <a href="https://github.com/Yeikzy/EasyDiscordBot"><img src="https://img.shields.io/github/languages/top/Yeikzy/EasyDiscordBot"></a>
+        <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/github/license/Yeikzy/EasyDiscordBot" alt="License: MIT"></a>
+   <img src="https://img.shields.io/github/stars/Yeikzy/EasyDiscordBot"/>
+   <img src="https://img.shields.io/github/forks/Yeikzy/EasyDiscordBot"/>
 
 </p>
 </div>
