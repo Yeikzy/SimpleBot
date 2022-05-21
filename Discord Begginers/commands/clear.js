@@ -7,7 +7,7 @@ module.exports.run = async (client, message, args) => {
         .setDescription('Il faut que tu indiques un nombre de messages à supprimer <:red_circle:804851648111443969>'))
 
         if (count < 1 || count > 999) return message.channel.send((new Discord.MessageEmbed)
-        .setDescription('Le nombre de message doit être compris entre 1 et 999 <:red_circle:804851648111443969>'))
+        .setDescription('Le nombre de message doit être compris entre 1 et 99 <:red_circle:804851648111443969>'))
         
         const { size } = await message.channel.bulkDelete(Number(count) + 1, true)
         message.channel.send((new Discord.MessageEmbed)
