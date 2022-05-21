@@ -1,5 +1,5 @@
 <div align="center">
-   <a href="https://discord.gg/W7cY7FH" target="_blank"><img src="https://github.com/Yeikzy/EasyDiscordBot/blob/main/.github/workflows/readme-header.png" align="center" /></a>
+   <a href="https://discord.gg/W7cY7FH" target="_blank"><img src="https://github.com/Yeikzy/EasyDiscordBot/blob/main/.github/assets/readme-header.png" align="center" /></a>
 
  <a href="https://github.com/Yeikzy/EasyDiscordBot"><img src="https://img.shields.io/github/languages/top/Yeikzy/EasyDiscordBot"></a>
         <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/github/license/Yeikzy/EasyDiscordBot" alt="License: MIT"></a>
