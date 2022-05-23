@@ -77,26 +77,14 @@ $ pm2 monit
 
 ![Alt](https://repobeats.axiom.co/api/embed/15556c445712dbddf3baa88a4950db1faf8e6e69.svg "Repobeats analytics image")
 
-# Contributors
+# Author
 
-Thanks goes to these wonderful people
+**EasyDiscordBot** © [Yeikzy](https://github.com/Yeikzy).ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤAuthored and maintained by Yeikzy.
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
+> Github [@Yeikzy](https://github.com/Yeikzy)
+
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Yeikzy"><img src="https://avatars.githubusercontent.com/u/48528776?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yeikzy</b></sub></a><br /><a href="https://github.com/Yeikzy/EasyDiscordBot" title="Code">💻</a> <a href="#example-Yeikzy" title="Examples">💡</a> <a href="https://github.com/Yeikzy/EasyDiscordBot/pulls" title="Tests">⚠️</a> <a href="#tutorial-Yeikzy" title="Tutorials">✅</a> <a href="#ideas-yeikzy" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/Yeikzy"><img src="https://avatars.githubusercontent.com/u/48528776?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yeikzy</b></sub></a><br /><a href="https://github.com/Yeikzy/pyromania-bot" title="Code">💻</a> <a href="#example-Yeikzy" title="Examples">💡</a> <a href="https://github.com/Yeikzy/pyromania-bot" title="Tests">⚠️</a> <a href="#tutorial-Yeikzy" title="Tutorials">✅</a></td>
   </tr>
 </table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-# Licensing 
-```
-Copyright (c) 2021 Yeikzy 
-All packages released under MIT.
-```
