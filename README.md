@@ -12,7 +12,7 @@
 
 </div>
 
-# How do I use it ?
+## ⚙️ Configuration
 
 1. Clone this repository and following commands or run botinstall.cmd.
 ```
@@ -57,7 +57,7 @@ $ pm2 start index.js
 $ pm2 monit
 ```
 
-# Project Activity
+## 📊 Project Activity
 
 ![Alt](https://repobeats.axiom.co/api/embed/15556c445712dbddf3baa88a4950db1faf8e6e69.svg "Repobeats analytics image")
 
