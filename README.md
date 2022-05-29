@@ -1,7 +1,8 @@
-<div align="center">
-   <a href="https://discord.gg/W7cY7FH" target="_blank"><img src="https://github.com/Yeikzy/EasyDiscordBot/blob/main/.github/assets/readme-header.png" align="center" /></a>
+<p align="center"><img align="center" width="500" src="./.github/assets/header-white.png#gh-dark-mode-only"/></p>
+<p align="center"><img align="center" width="500" src="./.github/assets/header-black.png#gh-light-mode-only"/></p>
 
- <a href="https://github.com/Yeikzy/EasyDiscordBot"><img src="https://img.shields.io/github/languages/top/Yeikzy/EasyDiscordBot"></a>
+<p align="center"> 
+<a href="https://github.com/Yeikzy/EasyDiscordBot"><img src="https://img.shields.io/github/languages/top/Yeikzy/EasyDiscordBot"></a>
         <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/github/license/Yeikzy/EasyDiscordBot" alt="License: MIT"></a>
    <img src="https://img.shields.io/github/stars/Yeikzy/EasyDiscordBot"/>
    <img src="https://img.shields.io/github/forks/Yeikzy/EasyDiscordBot"/>
@@ -55,23 +56,6 @@ Open a terminal and run these commands:
 $ pm2 start index.js
 $ pm2 monit
 ```
-
-# Commands
-
-|      Name      |            Description             |  Options  |
-|:---------------|:----------------------------------:|----------:|
-|   **ban**      |      ban a member on your Discord Server.      |           |
-|   **avatar**   |      Get a person's avatar      |      \<@User>     |
-|  **banner**    |         Get a person's banner      |    | \<@User>
-|   **clear**    |           Clear message            |  \<amount>  |
-|    **say**     |      Make your bot talk  |           |
-|   **kick**   |       Kick a member on your server.       |           |  
-|   **4k**    |      Send 4k image.                 | \<NSFW>  |
-|   **anal**   |           Send NSFW image.           |  \<NSFW>  |
-|  **boobs**   |      Send boobs picture.       |  \<NSFW>       |
-|   **ass**    |      Send ass picture.      |  \<NSFW>       |
-|   **pussy**    |          Send pussy picture.           |  \<NSFW>      |
-|  **hug**   |          Send a hug to a user.          | \<@User> |
 
 # Project Activity
 
