@@ -14,7 +14,7 @@
 
 ## ⚙️ Configuration
 
-1. Clone this repository and following commands or run botinstall.cmd.
+1. Clone this repository and following commands.
 ```
 $ npm install pm2 -g
 
