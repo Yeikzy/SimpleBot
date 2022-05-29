@@ -77,14 +77,10 @@ $ pm2 monit
 
 ![Alt](https://repobeats.axiom.co/api/embed/15556c445712dbddf3baa88a4950db1faf8e6e69.svg "Repobeats analytics image")
 
-# Author
+## 💖 Support the Project
 
-**EasyDiscordBot** © [Yeikzy](https://github.com/Yeikzy).ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤAuthored and maintained by Yeikzy.
+Thank you so much already for using my projects! If you want to go a step further and support my open source work, buy me a coffee:
 
-> Github [@Yeikzy](https://github.com/Yeikzy)
+<a href='https://ko-fi.com/Yeikzy' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Yeikzy"><img src="https://avatars.githubusercontent.com/u/48528776?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yeikzy</b></sub></a><br /><a href="https://github.com/Yeikzy/pyromania-bot" title="Code">💻</a> <a href="#example-Yeikzy" title="Examples">💡</a> <a href="https://github.com/Yeikzy/pyromania-bot" title="Tests">⚠️</a> <a href="#tutorial-Yeikzy" title="Tutorials">✅</a></td>
-  </tr>
-</table>
+To support the project directly, feel free to open issues for icon suggestions, or contribute with a pull request!
