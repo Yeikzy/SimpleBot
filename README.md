@@ -18,7 +18,7 @@
 ```
 $ npm install pm2 -g
 
-$ git clone https://github.com/Yeikzy/EasyDiscordBot
+$ git clone https://github.com/Yeikzy/SimpleBot
 ```
 
 2. Use this commands:
