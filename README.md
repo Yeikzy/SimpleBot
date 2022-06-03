@@ -24,7 +24,7 @@ $ git clone https://github.com/Yeikzy/SimpleBot
 2. Use this commands:
 
 ```js 
-$ npm install discord.js
+$ npm install
 ```
 
 3. Edit the ``config.json`` and replace the token and the prefix
